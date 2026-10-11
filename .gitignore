@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Original homework files: contain assignment text, grader metadata and a personal email
+metadata.yml
+HW6.ipynb
+
+# Local-only backups (not part of the portfolio repo)
+archive/
